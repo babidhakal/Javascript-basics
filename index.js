@@ -31,3 +31,7 @@ console.log({ question1, question2 });
 alert("you are " + question1 + " , you are not above 18 years old" + question2);
 
 // Write a multiplication calculator for 3 digits
+let number1 = prompt("Enter the first number");
+let number2 = prompt("Enter the second number");
+let result = number1 * number2;
+console.log(result);
