@@ -12,7 +12,7 @@ console.log("Hello world");
 const person = "Bijaya Dhakal";
 const person1 = "nischal basnet";
 
-let number = 3.14;
+// let number = 3.14;
 
 number = 5;
 // print the number
@@ -35,3 +35,5 @@ let number1 = prompt("Enter the first number");
 let number2 = prompt("Enter the second number");
 let result = number1 * number2;
 console.log(result);
+
+//
